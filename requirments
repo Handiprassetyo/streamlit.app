@@ -1,0 +1,4 @@
+streamlit==0.68.1
+pandas==0.25.3
+base64==2.0.0
+plotly.express
